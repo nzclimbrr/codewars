@@ -16,4 +16,8 @@
 // copaDelReyGoals
 // Create a fourth variable named totalGoals that stores the sum of all of Messi's goals for this year.
 
+const laLigaGoals = 43
+const championsLeagueGoals = 10
+const copaDelReyGoals = 5
 
+let totalGoals = laLigaGoals + championsLeagueGoals + copaDelReyGoals
